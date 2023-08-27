@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on full stack development activiies
-- 📫 How to reach me -- my email sameera.satyanarayana@gmail.com
+- 📫 How to reach me -- my email ssameera@rediffmail.com
 
 <!---
 hisameera/hisameera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
